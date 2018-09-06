@@ -1,0 +1,84 @@
+/*
+a
+{
+    cursor: pointer;
+    display: block;
+    color: #191919;
+    font-weight: normal;
+    font-size: 20px;
+    padding: 7px 30px 7px 10px;
+    line-height: 20px;
+    text-decoration: none;
+    outline: 0;
+}
+*/
+
+
+.class-1
+{
+	width: auto;
+	background-color: #fdebe7;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.class-2
+{
+	width: auto;
+	background-color: #fcebbf;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.class-3
+{	
+	width: auto;
+	background-color: #c2cbf6;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+.subdiv-row 
+{
+    border: #ccc 1px solid;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.link-alltabs {
+    cursor: pointer;
+    display: block;
+    color: #191919;
+    font-weight: normal;
+    font-size: 20px;
+    padding: 7px 30px 7px 10px;
+    line-height: 20px;
+    text-decoration: none;
+    outline: 0;
+}
+
+.faq-row.open .link-alltabs {
+   color:green;
+}
+
+.panel {
+    color: #666;
+    font-weight: normal;
+    line-height: 150%;
+    font-size: 18px;
+    display: none;
+}
+
+.panel p {
+    padding: 0 14px 10px 14px;
+}
